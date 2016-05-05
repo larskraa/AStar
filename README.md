@@ -1,2 +1,2 @@
 # AStar
-Shortest Path - An A-Star Algorithm Implementation
+Shortest path in a simple map using the A* algorithm
